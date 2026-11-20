@@ -1,0 +1,51 @@
+MIT License
+
+Copyright (c) 2026 F²
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+Scope of this license - third-party components
+---------------------------------------------------------------------------
+
+The MIT License above applies ONLY to the original work in this repository
+created by F² (the PowerShell and CMD scripts, the documentation and the
+artwork).
+
+It does NOT cover, and grants no rights whatsoever to - including no right
+to copy, modify, sell, sublicense or redistribute - any third-party
+component that the scripts download, extract or interact with. Those
+components are not part of this repository, remain the property of their
+respective owners and are governed exclusively by their owners' own license
+terms. In particular:
+
+  * Apple Inc. - Boot Camp Support Software, including the driver
+    applewirelessmouse.sys (AppleWirelessMouse.sys), AppleWirelessMouse.inf
+    and AppleWirelessMouse.cat. Governed by Apple's software license
+    agreement, which is presented to the user by the Apple package itself.
+
+  * Igor Pavlov - 7-Zip (7zr.exe, 7z.exe, 7z.dll). Licensed under the
+    GNU LGPL with the unRAR restriction; see https://www.7-zip.org/license.txt
+
+  * Microsoft Corporation - Windows, PowerShell and the Windows tools the
+    scripts call (pnputil, sc).
+
+Apple, Magic Mouse and Boot Camp are trademarks of Apple Inc. F² is not
+affiliated with, sponsored by or endorsed by Apple Inc., Igor Pavlov or
+Microsoft Corporation.

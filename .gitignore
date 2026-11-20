@@ -1,0 +1,15 @@
+# local state - never publish
+_backup/
+*.log
+
+# anything downloaded/extracted locally (Apple's driver is NOT redistributed)
+third_party/
+work/
+*.sys
+*.pkg
+*.dmg
+
+__pycache__/
+*.pyc
+.vs/
+Thumbs.db
